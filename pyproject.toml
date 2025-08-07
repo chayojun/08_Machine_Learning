@@ -1,10 +1,10 @@
 [project]
-name = "ml"
+name = "08-machine-learning"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = [
+dependencies = [    
     "jupyter>=1.1.1",
     "lightgbm>=4.6.0",
     "matplotlib>=3.10.5",
